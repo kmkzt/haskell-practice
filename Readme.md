@@ -2,8 +2,21 @@
 
 ## Haskell Setup
 
-- install page
-  https://www.haskell.org/downloads#minimal
+### install page
+
+https://www.haskell.org/downloads#minimal
+
+### brew install
+
+```
+brew install ghc
+```
+
+## interpreter
+
+```
+ghci
+```
 
 ## Compile & Execution
 
