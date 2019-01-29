@@ -52,6 +52,22 @@ ghc ./helloworld/Main.hs
 
 ## create webapp
 
+sample-web-app directory is sample project
+
+create project
+
 ```
 stack new sample-web-app
+```
+
+build
+
+```
+stack build
+```
+
+execution
+
+```
+stach exec sample-web-app-exe
 ```
