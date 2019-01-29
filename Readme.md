@@ -14,8 +14,16 @@ brew install ghc
 
 ## interpreter
 
+start command
+
 ```
 ghci
+```
+
+exit command
+
+```
+:quit
 ```
 
 ## Compile & Execution
