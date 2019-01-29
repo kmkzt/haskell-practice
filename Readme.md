@@ -12,6 +12,14 @@ https://www.haskell.org/downloads#minimal
 brew install ghc
 ```
 
+### stack install
+
+stack command make haskell project.
+
+```
+curl -sSL https://get.haskellstack.org/ | sh
+```
+
 ## interpreter
 
 start command
@@ -40,4 +48,10 @@ compile & execution
 ```shell
 ghc ./helloworld/Main.hs
 ./helloworld/Main
+```
+
+## create webapp
+
+```
+stack new sample-web-app
 ```
